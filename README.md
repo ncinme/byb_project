@@ -1,5 +1,11 @@
 # byb_project
 
+## This Readme file is for practicing various Markdown syntax.
+
+References:
+
+Basic writing and formatting syntax: https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents
+
 Example : https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md
 
 Raw: https://raw.githubusercontent.com/18F/open-source-guide/18f-pages/pages/making-readmes-readable.md
